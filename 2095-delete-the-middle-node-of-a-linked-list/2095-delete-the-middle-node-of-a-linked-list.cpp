@@ -16,8 +16,8 @@ public:
          ListNode* slow=head;
           ListNode* fast=head;
 
-           if (head == NULL || head->next == NULL) {
-            return NULL;
+           if (head == nullptr || head->next == nullptr) {
+            return nullptr;
         }
 
 
