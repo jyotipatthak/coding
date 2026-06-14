@@ -1,4 +1,4 @@
-## Approach 
+## Approach (Optimal)
 Sort the given array and initialize two pointers i.e. left, which points to the 0th index, and right, which points to the last index.
 Now, using a loop, check the sum of arr[left] and arr[right] until left less than right.
 If sum of arr[left] and arr[right] greater than target, decrement the right pointer.
