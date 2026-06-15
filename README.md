@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jyotipatthak/coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jyotipatthak/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/jyotipatthak/coding/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jyotipatthak/coding/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jyotipatthak/coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/jyotipatthak/coding/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyotipatthak/coding/tree/master/1004-max-consecutive-ones-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jyotipatthak/coding/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jyotipatthak/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/jyotipatthak/coding/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jyotipatthak/coding/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/jyotipatthak/coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/jyotipatthak/coding/tree/master/0930-binary-subarrays-with-sum) |
 ## Sliding Window
@@ -109,8 +111,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jyotipatthak/coding/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jyotipatthak/coding/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jyotipatthak/coding/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/jyotipatthak/coding/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
