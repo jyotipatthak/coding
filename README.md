@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jyotipatthak/coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jyotipatthak/coding/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jyotipatthak/coding/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/jyotipatthak/coding/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/jyotipatthak/coding/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyotipatthak/coding/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jyotipatthak/coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jyotipatthak/coding/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/jyotipatthak/coding/tree/master/0424-longest-repeating-character-replacement) |
+| [0645-set-mismatch](https://github.com/jyotipatthak/coding/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/jyotipatthak/coding/tree/master/0930-binary-subarrays-with-sum) |
 ## Sliding Window
 |  |
@@ -112,9 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/jyotipatthak/coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jyotipatthak/coding/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/jyotipatthak/coding/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jyotipatthak/coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jyotipatthak/coding/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/jyotipatthak/coding/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
