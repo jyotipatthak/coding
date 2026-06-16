@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jyotipatthak/coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jyotipatthak/coding/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jyotipatthak/coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/jyotipatthak/coding/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jyotipatthak/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/jyotipatthak/coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jyotipatthak/coding/tree/master/0229-majority-element-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jyotipatthak/coding/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/jyotipatthak/coding/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/jyotipatthak/coding/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jyotipatthak/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/jyotipatthak/coding/tree/master/0234-palindrome-linked-list) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jyotipatthak/coding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jyotipatthak/coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jyotipatthak/coding/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/jyotipatthak/coding/tree/master/0645-set-mismatch) |
