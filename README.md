@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jyotipatthak/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/jyotipatthak/coding/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/jyotipatthak/coding/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/jyotipatthak/coding/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/jyotipatthak/coding/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jyotipatthak/coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/jyotipatthak/coding/tree/master/0645-set-mismatch) |
@@ -134,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/jyotipatthak/coding/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/jyotipatthak/coding/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
