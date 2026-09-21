@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jyotipatthak/coding/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/jyotipatthak/coding/tree/master/0070-climbing-stairs) |
 | [1903-largest-odd-number-in-string](https://github.com/jyotipatthak/coding/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -134,6 +135,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jyotipatthak/coding/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/jyotipatthak/coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jyotipatthak/coding/tree/master/0213-house-robber-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jyotipatthak/coding/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
