@@ -20,27 +20,20 @@ public:
     static bool myFunction(string & word1, string & word2){
         return word1.length()< word2.length();
     }
-    int lis(vector<string> & words, int prev_idx, int curr_idx ){
-        if(curr_idx==n)
-          return 0;
-   
-    if(prev_idx!= -1 && t[prev_idx][curr_idx] != -1){
-        return t[prev_idx][curr_idx];
-    }
-     int taken=0, not_taken=0;
-     if(prev_idx ==-1 || isPred(words[prev_idx],words[curr_idx])){
-         taken= 1+ lis(words, curr_idx, curr_idx+1);
-     }
-    not_taken=lis(words, prev_idx, curr_idx+1);
-    if(prev_idx!= -1)
-        t[prev_idx][curr_idx]=max(taken, not_taken);
-    return max(taken, not_taken);
-    
-    }
+  
     int longestStrChain(vector<string>& words) {
         n = words.size();
         sort(begin(words), end(words), myFunction);
-        memset(t,-1, sizeof(t));
-        return lis(words, -1, 0);
+        vector<int>t(n,1);
+        int maxlis=1;
+        for(int i=0; i< n ; i++){
+            for(int j=0; j<i; j++){
+                if(isPred(words[j], words[i])){
+                    t[i]= max(t[i], t[j]+1);
+                    maxlis=max(t[i], maxlis);
+                }
+            }
+        }
+    return maxlis;    
     }
 };
