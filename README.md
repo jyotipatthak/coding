@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/jyotipatthak/coding/tree/master/0746-min-cost-climbing-stairs) |
 | [0930-binary-subarrays-with-sum](https://github.com/jyotipatthak/coding/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyotipatthak/coding/tree/master/1004-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/jyotipatthak/coding/tree/master/1048-longest-string-chain) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jyotipatthak/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jyotipatthak/coding/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/jyotipatthak/coding/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/jyotipatthak/coding/tree/master/1048-longest-string-chain) |
 | [1903-largest-odd-number-in-string](https://github.com/jyotipatthak/coding/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/jyotipatthak/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/jyotipatthak/coding/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jyotipatthak/coding/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/jyotipatthak/coding/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jyotipatthak/coding/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jyotipatthak/coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0645-set-mismatch](https://github.com/jyotipatthak/coding/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/jyotipatthak/coding/tree/master/0930-binary-subarrays-with-sum) |
+| [1048-longest-string-chain](https://github.com/jyotipatthak/coding/tree/master/1048-longest-string-chain) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/jyotipatthak/coding/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/jyotipatthak/coding/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jyotipatthak/coding/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/jyotipatthak/coding/tree/master/1048-longest-string-chain) |
 ## Counting
 |  |
 | ------- |
@@ -147,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jyotipatthak/coding/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jyotipatthak/coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/jyotipatthak/coding/tree/master/0746-min-cost-climbing-stairs) |
+| [1048-longest-string-chain](https://github.com/jyotipatthak/coding/tree/master/1048-longest-string-chain) |
 ## Memoization
 |  |
 | ------- |
