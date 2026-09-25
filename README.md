@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/jyotipatthak/coding/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyotipatthak/coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/jyotipatthak/coding/tree/master/1048-longest-string-chain) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/jyotipatthak/coding/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jyotipatthak/coding/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jyotipatthak/coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyotipatthak/coding/tree/master/1004-max-consecutive-ones-iii) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/jyotipatthak/coding/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/jyotipatthak/coding/tree/master/0646-maximum-length-of-pair-chain) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/jyotipatthak/coding/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1903-largest-odd-number-in-string](https://github.com/jyotipatthak/coding/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/jyotipatthak/coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/jyotipatthak/coding/tree/master/0746-min-cost-climbing-stairs) |
 | [1048-longest-string-chain](https://github.com/jyotipatthak/coding/tree/master/1048-longest-string-chain) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/jyotipatthak/coding/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Memoization
 |  |
 | ------- |
