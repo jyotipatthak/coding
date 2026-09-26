@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/jyotipatthak/coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/jyotipatthak/coding/tree/master/1048-longest-string-chain) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/jyotipatthak/coding/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/jyotipatthak/coding/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/jyotipatthak/coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyotipatthak/coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/jyotipatthak/coding/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/jyotipatthak/coding/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## String
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/jyotipatthak/coding/tree/master/0746-min-cost-climbing-stairs) |
 | [1048-longest-string-chain](https://github.com/jyotipatthak/coding/tree/master/1048-longest-string-chain) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/jyotipatthak/coding/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/jyotipatthak/coding/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -166,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/jyotipatthak/coding/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jyotipatthak/coding/tree/master/0646-maximum-length-of-pair-chain) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/jyotipatthak/coding/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/jyotipatthak/coding/tree/master/2926-maximum-balanced-subsequence-sum) |
 <!---LeetCode Topics End-->
