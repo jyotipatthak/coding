@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/jyotipatthak/coding/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/jyotipatthak/coding/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/jyotipatthak/coding/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/jyotipatthak/coding/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/jyotipatthak/coding/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/jyotipatthak/coding/tree/master/0746-min-cost-climbing-stairs) |
 | [1048-longest-string-chain](https://github.com/jyotipatthak/coding/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/jyotipatthak/coding/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/jyotipatthak/coding/tree/master/1143-longest-common-subsequence) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/jyotipatthak/coding/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/jyotipatthak/coding/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Memoization
@@ -189,4 +191,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/jyotipatthak/coding/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/jyotipatthak/coding/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
