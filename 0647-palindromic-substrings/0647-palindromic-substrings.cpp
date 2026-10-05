@@ -1,3 +1,4 @@
+// bottom up approach
 class Solution {
 public:
     int countSubstrings(string s) {
@@ -26,4 +27,35 @@ public:
         } 
         return count;    
     }
+};
+
+
+
+
+// recursion 
+
+class Solution {
+public:
+ bool check(string &s, int i, int j){
+     if(i>j){
+        return true;
+     }
+    if(s[i][j]){
+        return check(s, 1+1, j-1);
+    }
+
+     return false;
+} 
+
+int countSubstrings(strings) {
+    int n=s.length();
+    int count;
+    for(int i=0; i<n; i++){
+       for(int j=i; j<n; j++){
+           if (check(s,i,j)){
+               count++;
+           }
+      } 
+    return count;
+  }
 };
